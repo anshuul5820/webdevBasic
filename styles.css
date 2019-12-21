@@ -1,0 +1,38 @@
+body {
+  padding-top: 200px;
+  margin: 0;
+  text-align: center;
+}
+
+#heading2 {
+  margin-top: 0;
+  font-family: 'Satisfy', cursive;
+  font-size: 90px;
+  color: #11999E;
+  font-weight: normal;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 500px;
+  bottom: 600px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.mountain {
+  position: relative;
+}
+
+.p1 {
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color: #66BFBF
+}
+h2
+{color:#66BFBF}
